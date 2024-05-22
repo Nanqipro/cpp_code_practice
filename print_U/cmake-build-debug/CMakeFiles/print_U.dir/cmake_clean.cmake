@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/print_U.dir/main.cpp.obj"
+  "CMakeFiles/print_U.dir/main.cpp.obj.d"
   "libprint_U.dll.a"
   "print_U.exe"
   "print_U.exe.manifest"
