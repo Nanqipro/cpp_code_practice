@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\print_way.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\print_way.dir/objects.a @CMakeFiles\print_way.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\print_way.dir/objects.a -Wl,--no-whole-archive -o print_way.exe -Wl,--out-implib,libprint_way.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\print_way.dir\linklibs.rsp

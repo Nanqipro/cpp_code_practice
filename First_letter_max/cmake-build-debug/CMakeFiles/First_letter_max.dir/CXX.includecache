@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/86188/Desktop/c-language-practice/First_letter_max/main.cpp
+cstdio
+-
+string
+-
+vector
+-
+cstdio
+-
+string
+-
+

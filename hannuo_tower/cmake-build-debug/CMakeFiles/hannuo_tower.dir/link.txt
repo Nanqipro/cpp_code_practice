@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\hannuo_tower.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\hannuo_tower.dir/objects.a @CMakeFiles\hannuo_tower.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\hannuo_tower.dir/objects.a -Wl,--no-whole-archive -o hannuo_tower.exe -Wl,--out-implib,libhannuo_tower.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hannuo_tower.dir\linklibs.rsp

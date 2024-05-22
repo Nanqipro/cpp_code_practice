@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\rebuildTree.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\rebuildTree.dir/objects.a @CMakeFiles\rebuildTree.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\rebuildTree.dir/objects.a -Wl,--no-whole-archive -o rebuildTree.exe -Wl,--out-implib,librebuildTree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rebuildTree.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/86188/Desktop/c-language-practice/maya_code/cmake-build-debug/CMakeFiles/maya_code.dir
+C:/Users/86188/Desktop/c-language-practice/maya_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86188/Desktop/c-language-practice/maya_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/86188/Desktop/c-language-practice/compute_formula/main.cpp
+iostream
+-
+cstdio
+-
+string
+-
+stack
+-
+map
+-
+

@@ -1,0 +1,3 @@
+C:/Users/86188/Desktop/c-language-practice/special_multi/cmake-build-debug/CMakeFiles/special_multi.dir
+C:/Users/86188/Desktop/c-language-practice/special_multi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86188/Desktop/c-language-practice/special_multi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

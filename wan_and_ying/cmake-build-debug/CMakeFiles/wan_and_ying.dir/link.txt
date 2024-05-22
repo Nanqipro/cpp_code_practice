@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\wan_and_ying.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\wan_and_ying.dir/objects.a @CMakeFiles\wan_and_ying.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\wan_and_ying.dir/objects.a -Wl,--no-whole-archive -o wan_and_ying.exe -Wl,--out-implib,libwan_and_ying.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\wan_and_ying.dir\linklibs.rsp

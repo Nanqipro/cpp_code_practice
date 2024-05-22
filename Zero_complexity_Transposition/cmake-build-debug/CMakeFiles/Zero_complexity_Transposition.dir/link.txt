@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Zero_complexity_Transposition.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Zero_complexity_Transposition.dir/objects.a @CMakeFiles\Zero_complexity_Transposition.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Zero_complexity_Transposition.dir/objects.a -Wl,--no-whole-archive -o Zero_complexity_Transposition.exe -Wl,--out-implib,libZero_complexity_Transposition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Zero_complexity_Transposition.dir\linklibs.rsp
