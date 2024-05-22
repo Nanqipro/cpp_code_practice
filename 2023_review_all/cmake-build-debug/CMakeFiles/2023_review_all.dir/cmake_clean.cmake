@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "2023_review_all.exe.manifest"
   "2023_review_all.pdb"
   "CMakeFiles/2023_review_all.dir/main.cpp.obj"
+  "CMakeFiles/2023_review_all.dir/main.cpp.obj.d"
   "lib2023_review_all.dll.a"
 )
 

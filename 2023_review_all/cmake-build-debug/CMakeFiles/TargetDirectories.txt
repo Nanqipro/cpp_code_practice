@@ -1,3 +1,3 @@
-C:/Users/86188/Desktop/c-language-practice/2023_review_all/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/86188/Desktop/c-language-practice/2023_review_all/cmake-build-debug/CMakeFiles/2023_review_all.dir
-C:/Users/86188/Desktop/c-language-practice/2023_review_all/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86188/Desktop/xpt/Gitee_local/cpp_practice/2023_review_all/cmake-build-debug/CMakeFiles/2023_review_all.dir
+C:/Users/86188/Desktop/xpt/Gitee_local/cpp_practice/2023_review_all/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86188/Desktop/xpt/Gitee_local/cpp_practice/2023_review_all/cmake-build-debug/CMakeFiles/rebuild_cache.dir
